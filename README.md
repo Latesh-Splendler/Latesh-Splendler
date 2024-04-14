@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Latesh-Splendler
 - 👀 I’m interested in ...Datascience Artificial Intelligence
 - 🌱 I’m currently learning ...Python and Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Machine Learning Web developmeny
 - 📫 How to reach me ... georgendungu559@gmail.com
 
 <!---
