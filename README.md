@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDE0NTN4azRsaDJxd29xcngxc3N2N3E2ZHk1dDh0aWhmc2x5bGQ4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S2IfEQqgWc0AH4r6Al/giphy.gif"  />
+<img align="right" height="110" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDE0NTN4azRsaDJxd29xcngxc3N2N3E2ZHk1dDh0aWhmc2x5bGQ4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S2IfEQqgWc0AH4r6Al/giphy.gif"  />
 
 ###
 
@@ -39,9 +39,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/georgendungu11639/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="georgendungu559@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
