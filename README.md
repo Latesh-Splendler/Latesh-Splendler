@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="160" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif?cid=ecf05e47f4yb9h2qqor7dyp4c2torep6tho2pa8kf15kp0bf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDE0NTN4azRsaDJxd29xcngxc3N2N3E2ZHk1dDh0aWhmc2x5bGQ4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S2IfEQqgWc0AH4r6Al/giphy.gif"  />
 
 ###
 
@@ -27,11 +27,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="20" />
